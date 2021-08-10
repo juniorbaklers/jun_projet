@@ -1,0 +1,93 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: 'source sans pro', 'Times New Roman', Tahoma,Sans-serif;
+    font-size: 20px;
+    border: 18px solid rgb(163, 103, 12);
+    padding: 20px;
+    border-radius: 10px;
+}
+.info{
+    font-size: 22px;
+}
+
+.infophoto{
+    height: 250px;
+}
+
+.photo{
+    float: right;
+}
+
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.sec-droite{
+    margin-left: 150px;
+    margin-top:  50px;
+    top: 25%;
+}
+
+h2{
+    font-size: 25px;
+    color: brown;
+    border-bottom: 10px solid #a52aDD;
+}
+
+h1{
+    font-size: 25px;
+    color: #07267a;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#pap-gauch p{
+    margin-top: 10px;
+    margin-bottom: 45px;
+}
+
+#plom-etd p{
+    margin-top: 35px;
+}
+
+#form-prat p{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#plom-edt p{
+    margin-bottom: 20px;
+}
+
+#jac-jun p{
+    margin-bottom: 30px;
+    margin-top: 40px;
+    bottom: 25%;
+}
+
+#bak-bjjj p{
+    top: 50%;
+}
+#dat-dip p{
+    margin-bottom: 43px;
+}
+
+#etu-prof p{
+    margin-bottom: 10px;
+    bottom: 40mm;
+}
+#jun-prof p{
+    margin-top: -3px;
+}
